@@ -1,0 +1,51 @@
+PlayerID,Name,Age,Position,Club,Nationality,Goals,Assists,Yellow Cards,Red Cards,Matches Played,Minutes Played,Rating
+1,Bimal Gharti Magar,26,Forward,Machhindra FC,Nepal,12,5,2,0,18,1540,7.8
+2,Sujal Shrestha,31,Midfielder,Machhindra FC,Nepal,4,7,3,0,17,1350,7.4
+3,Devendra Tamang,30,Defender,Machhindra FC,Nepal,1,2,4,1,18,1620,7.2
+4,Vishal Shrestha,32,Goalkeeper,Machhindra FC,Nepal,0,0,1,0,18,1620,7.6
+5,Abhishek Rijal,26,Forward,Machhindra FC,Nepal,6,3,1,0,15,980,7.0
+6,Anant Tamang,28,Defender,Church Boys United,Nepal,2,1,2,0,18,1620,7.9
+7,Arik Bista,25,Midfielder,Church Boys United,Nepal,3,5,4,0,18,1500,7.3
+8,Deep Karki,27,Goalkeeper,Church Boys United,Nepal,0,0,0,0,18,1620,7.5
+9,Manish Dangi,24,Forward,Church Boys United,Nepal,8,6,2,0,17,1420,7.6
+10,Ranjit Dhimal,33,Defender,Church Boys United,Nepal,1,4,3,0,16,1300,7.1
+11,Nawayug Shrestha,33,Forward,Tribhuvan Army FC,Nepal,10,3,1,0,18,1480,7.5
+12,Bharat Khawas,36,Forward,Tribhuvan Army FC,Nepal,5,6,2,0,16,1100,7.1
+13,George Prince Karki,31,Midfielder,Tribhuvan Army FC,Nepal,4,5,1,0,17,1250,7.2
+14,Jitendra Karki,35,Defender,Tribhuvan Army FC,Nepal,0,1,5,0,18,1600,6.9
+15,Bikesh Kuthu,32,Goalkeeper,Tribhuvan Army FC,Nepal,0,0,1,0,18,1620,7.4
+16,Ravi Paswan,26,Midfielder,Nepal Police Club,Nepal,4,6,3,0,18,1550,7.1
+17,Tej Tamang,26,Midfielder,Nepal Police Club,Nepal,2,4,4,0,17,1480,7.2
+18,Dinesh Rajbanshi,26,Defender,Nepal Police Club,Nepal,1,1,5,1,16,1400,7.0
+19,Anjan Bista,26,Forward,Nepal Police Club,Nepal,11,4,3,0,18,1580,7.7
+20,Shatrughan Chaudhary,29,Goalkeeper,Nepal Police Club,Nepal,0,0,2,0,15,1350,6.8
+21,Pradip Shikhar,25,Forward,APF Club,Nepal,6,2,1,0,16,1120,6.9
+22,Nabin Lama,31,Midfielder,APF Club,Nepal,3,5,2,0,17,1300,7.0
+23,Ramesh Dangal,34,Defender,APF Club,Nepal,0,0,6,1,18,1580,6.7
+24,Raju Nagarkoti,28,Goalkeeper,APF Club,Nepal,0,0,1,0,17,1530,6.9
+25,Aashish Chaudhary,23,Forward,APF Club,Nepal,5,3,2,0,15,1050,7.0
+26,Ayush Ghalan,22,Midfielder,Three Star Club,Nepal,5,8,1,0,18,1600,7.6
+27,Laken Limbu,23,Midfielder,Three Star Club,Nepal,3,4,3,0,18,1520,7.3
+28,Peter Segun,35,Defender,Three Star Club,Nigeria,1,0,5,2,17,1480,6.9
+29,Pradip Bhandari,25,Goalkeeper,Three Star Club,Nepal,0,0,2,0,18,1620,7.1
+30,Bijay Bhujel,24,Forward,Three Star Club,Nepal,7,2,1,0,16,1150,7.0
+31,Samit Singh,27,Forward,Jawalakhel Youth Club,Nepal,9,4,2,0,18,1510,7.4
+32,Fode Fofana,29,Forward,Jawalakhel Youth Club,Guinea,11,3,4,0,17,1460,7.6
+33,Simanta Thapa,25,Defender,Jawalakhel Youth Club,Nepal,1,2,3,0,18,1620,7.1
+34,Aditya Chaudhary,29,Defender,Jawalakhel Youth Club,Nepal,0,1,4,0,18,1590,7.0
+35,Unesh Chaudhary,26,Goalkeeper,Jawalakhel Youth Club,Nepal,0,0,1,0,18,1620,7.2
+36,Sunil Bal,26,Midfielder,Sankata Club,Nepal,6,7,2,0,18,1560,7.5
+37,Nirajan Khadka,36,Midfielder,Sankata Club,Nepal,2,4,4,0,15,1100,6.8
+38,Amit Tamang,28,Defender,Sankata Club,Nepal,1,1,3,0,17,1450,6.9
+39,Stephen Binong,28,Forward,Sankata Club,Cameroon,8,2,5,1,16,1320,7.2
+40,Ajit Prajapati,28,Goalkeeper,Sankata Club,Nepal,0,0,0,0,18,1620,7.0
+41,Prakash Budhathoki,32,Midfielder,Friends Club,Nepal,4,5,3,0,16,1280,6.9
+42,Uttam Rai,29,Forward,Friends Club,Nepal,7,1,2,0,17,1220,7.0
+43,Dev Limbu,24,Defender,Friends Club,Nepal,0,1,4,0,18,1600,6.7
+44,Saurav Shrestha,25,Goalkeeper,Friends Club,Nepal,0,0,1,0,15,1350,6.6
+45,Rajin Subba,24,Forward,Friends Club,Nepal,5,3,1,0,14,920,6.8
+46,Tridev Gurung,26,Midfielder,Himalayan Sherpa Club,Nepal,3,5,2,0,18,1520,7.1
+47,Pistone Mutamba,27,Forward,Himalayan Sherpa Club,Kenya,9,2,3,0,17,1430,7.3
+48,Ashish Gurung,25,Defender,Himalayan Sherpa Club,Nepal,0,1,4,0,18,1620,6.9
+49,Kishore Giri,26,Goalkeeper,Himalayan Sherpa Club,Nepal,0,0,1,0,18,1620,7.0
+50,Bishal Rai,31,Midfielder,Himalayan Sherpa Club,Nepal,2,4,2,0,16,1200,7.0
