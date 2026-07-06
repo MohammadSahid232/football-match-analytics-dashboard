@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Visualizations{% endblock %}
+{% block page_header %}Data Visualizations{% endblock %}
+
+{% block content %}
+<div class="row g-4">
+    <!-- Top Scorers Chart -->
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-header">Top Scorers Distribution</div>
+            <div class="card-body text-center bg-white p-2">
+                <img src="{{ url_for('static', filename=charts.top_scorers) }}" alt="Top Scorers" class="img-fluid rounded">
+            </div>
+        </div>
+    </div>
+
+    <!-- Team Points Chart -->
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-header">League Points Summary</div>
+            <div class="card-body text-center bg-white p-2">
+                <img src="{{ url_for('static', filename=charts.team_points) }}" alt="Team Points" class="img-fluid rounded">
+            </div>
+        </div>
+    </div>
+
+    <!-- Goals Distribution Chart -->
+    <div class="col-lg-8 mx-auto mt-4">
+        <div class="card">
+            <div class="card-header">Goals Per Match Distribution</div>
+            <div class="card-body text-center bg-white p-2">
+                <img src="{{ url_for('static', filename=charts.goals_distribution) }}" alt="Goals Distribution" class="img-fluid rounded">
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
