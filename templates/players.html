@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Players{% endblock %}
+{% block page_header %}Players Directory{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-dark table-hover mb-0 align-middle">
+                <thead class="table-active">
+                    <tr>
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Position</th>
+                        <th>Club</th>
+                        <th>Nationality</th>
+                        <th class="text-center">Goals</th>
+                        <th class="text-center">Assists</th>
+                        <th class="text-center">Matches</th>
+                        <th class="text-center">Rating</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for player in players %}
+                    <tr>
+                        <td class="fw-bold">{{ player.Name }}</td>
+                        <td>{{ player.Age }}</td>
+                        <td>
+                            {% if player.Position == 'Forward' %}<span class="badge bg-primary">FW</span>
+                            {% elif player.Position == 'Midfielder' %}<span class="badge bg-success">MF</span>
+                            {% elif player.Position == 'Defender' %}<span class="badge bg-warning text-dark">DF</span>
+                            {% else %}<span class="badge bg-secondary">GK</span>{% endif %}
+                        </td>
+                        <td>{{ player.Club }}</td>
+                        <td>{{ player.Nationality }}</td>
+                        <td class="text-center text-accent fw-bold">{{ player.Goals }}</td>
+                        <td class="text-center">{{ player.Assists }}</td>
+                        <td class="text-center">{{ player['Matches Played'] }}</td>
+                        <td class="text-center">
+                            <span class="badge {% if player.Rating >= 7.5 %}bg-success{% elif player.Rating >= 7.0 %}bg-primary{% else %}bg-secondary{% endif %}">
+                                {{ player.Rating }}
+                            </span>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
