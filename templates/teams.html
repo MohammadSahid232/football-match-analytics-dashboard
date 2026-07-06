@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Clubs{% endblock %}
+{% block page_header %}Football Clubs{% endblock %}
+
+{% block content %}
+<div class="row g-4">
+    {% for team in teams %}
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">{{ team.Name }}</h5>
+                <span class="badge bg-secondary">{{ team.Founded }}</span>
+            </div>
+            <div class="card-body">
+                <ul class="list-group list-group-flush bg-transparent">
+                    <li class="list-group-item bg-transparent text-light border-secondary px-0">
+                        <i class="fas fa-map-marker-alt text-danger me-2"></i> <strong>City:</strong> {{ team.City }}
+                    </li>
+                    <li class="list-group-item bg-transparent text-light border-secondary px-0">
+                        <i class="fas fa-building text-primary me-2"></i> <strong>Stadium:</strong> {{ team.Stadium }} ({{ team.Capacity }})
+                    </li>
+                    <li class="list-group-item bg-transparent text-light border-secondary px-0">
+                        <i class="fas fa-user-tie text-info me-2"></i> <strong>Manager:</strong> {{ team.Manager }}
+                    </li>
+                    <li class="list-group-item bg-transparent text-light px-0 border-0">
+                        <i class="fas fa-paw text-warning me-2"></i> <strong>Mascot:</strong> {{ team.Mascot }}
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
