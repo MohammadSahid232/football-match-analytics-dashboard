@@ -1,0 +1,49 @@
+Nation,Played,Won,Drawn,Lost,GF,GA,GD,Points,Group,Position,Qualified
+England,3,3,0,0,5,0,5,9,A,1,True
+United States,3,1,0,2,4,4,0,3,A,2,True
+Panama,3,1,0,2,1,3,-2,3,A,3,False
+Tunisia,3,1,0,2,2,5,-3,3,A,4,False
+Ecuador,3,2,0,1,5,2,3,6,B,1,True
+Morocco,3,2,0,1,4,3,1,6,B,2,True
+Argentina,3,1,1,1,4,4,0,4,B,3,True
+Mexico,3,0,1,2,1,5,-4,1,B,4,False
+Germany,3,1,2,0,5,3,2,5,C,1,True
+South Korea,3,1,2,0,5,4,1,5,C,2,True
+Canada,3,0,3,0,2,2,0,3,C,3,True
+Ivory Coast,3,0,1,2,1,4,-3,1,C,4,False
+France,3,2,1,0,5,2,3,7,D,1,True
+Brazil,3,1,1,1,5,5,0,4,D,2,True
+Japan,3,1,0,2,4,6,-2,3,D,3,False
+Cameroon,3,0,2,1,1,2,-1,2,D,4,False
+Portugal,3,2,1,0,5,3,2,7,E,1,True
+Australia,3,1,1,1,3,3,0,4,E,2,True
+Spain,3,0,3,0,0,0,0,3,E,3,True
+Senegal,3,0,1,2,1,3,-2,1,E,4,False
+Colombia,3,3,0,0,7,1,6,9,F,1,True
+Netherlands,3,1,1,1,3,4,-1,4,F,2,True
+DR Congo,3,0,2,1,1,4,-3,2,F,3,False
+Iran,3,0,1,2,2,4,-2,1,F,4,False
+Italy,3,2,1,0,6,2,4,7,G,1,True
+Saudi Arabia,3,1,1,1,3,3,0,4,G,2,True
+Uruguay,3,1,1,1,4,6,-2,4,G,3,True
+Belgium,3,0,1,2,3,5,-2,1,G,4,False
+Croatia,3,2,0,1,4,3,1,6,H,1,True
+South Africa,3,2,0,1,3,2,1,6,H,2,True
+Turkey,3,1,1,1,1,1,0,4,H,3,True
+Costa Rica,3,0,1,2,1,3,-2,1,H,4,False
+Austria,3,2,1,0,5,2,3,7,I,1,True
+Switzerland,3,2,0,1,4,2,2,6,I,2,True
+Egypt,3,1,1,1,3,4,-1,4,I,3,True
+Honduras,3,0,0,3,1,5,-4,0,I,4,False
+Serbia,3,2,0,1,6,4,2,6,J,1,True
+Denmark,3,1,2,0,6,2,4,5,J,2,True
+Qatar,3,1,1,1,2,3,-1,4,J,3,True
+Nigeria,3,0,1,2,3,8,-5,1,J,4,False
+Scotland,3,3,0,0,10,3,7,9,K,1,True
+Jordan,3,2,0,1,4,5,-1,6,K,2,True
+Indonesia,3,0,1,2,5,7,-2,1,K,3,False
+Hungary,3,0,1,2,2,6,-4,1,K,4,False
+New Zealand,3,2,0,1,3,4,-1,6,L,1,True
+Guatemala,3,1,1,1,4,2,2,4,L,2,True
+Uzbekistan,3,1,1,1,3,3,0,4,L,3,True
+Venezuela,3,0,2,1,2,3,-1,2,L,4,False

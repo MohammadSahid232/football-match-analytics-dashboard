@@ -1,0 +1,49 @@
+TeamID,Nation,Confederation,Group,FIFA_Rank,ELO_Rating,Coach,Host
+1,United States,CONCACAF,A,15,1845,Mauricio Pochettino,True
+2,England,UEFA,A,3,2020,Gareth Southgate,False
+3,Panama,CONCACAF,A,38,1615,Thomas Christiansen,False
+4,Tunisia,CAF,A,31,1680,Jalel Kadri,False
+5,Mexico,CONCACAF,B,22,1760,Javier Aguirre,True
+6,Argentina,CONMEBOL,B,2,2080,Lionel Scaloni,False
+7,Ecuador,CONMEBOL,B,27,1720,Sebastian Beccacece,False
+8,Morocco,CAF,B,12,1880,Walid Regragui,False
+9,Canada,CONCACAF,C,28,1710,Jesse Marsch,True
+10,Germany,UEFA,C,9,1955,Julian Nagelsmann,False
+11,South Korea,AFC,C,21,1775,Hong Myung-bo,False
+12,Ivory Coast,CAF,C,33,1645,Emerse Fae,False
+13,Brazil,CONMEBOL,D,4,2010,Fernando Diniz,False
+14,France,UEFA,D,1,2090,Didier Deschamps,False
+15,Japan,AFC,D,19,1800,Hajime Moriyasu,False
+16,Cameroon,CAF,D,34,1640,Rigobert Song,False
+17,Spain,UEFA,E,8,1960,Luis de la Fuente,False
+18,Portugal,UEFA,E,6,1980,Roberto Martinez,False
+19,Australia,AFC,E,30,1695,Tony Popovic,False
+20,Senegal,CAF,E,20,1790,Aliou Cisse,False
+21,Netherlands,UEFA,F,7,1970,Ronald Koeman,False
+22,Colombia,CONMEBOL,F,17,1825,Nestor Lorenzo,False
+23,Iran,AFC,F,26,1730,Amir Ghalenoei,False
+24,DR Congo,CAF,F,46,1570,Sebastien Desabre,False
+25,Belgium,UEFA,G,5,1995,Domenico Tedesco,False
+26,Italy,UEFA,G,10,1945,Luciano Spalletti,False
+27,Uruguay,CONMEBOL,G,14,1860,Marcelo Bielsa,False
+28,Saudi Arabia,AFC,G,37,1620,Roberto Mancini,False
+29,Croatia,UEFA,H,11,1920,Zlatko Dalic,False
+30,Turkey,UEFA,H,24,1745,Vincenzo Montella,False
+31,Costa Rica,CONCACAF,H,35,1630,Gustavo Alfaro,False
+32,South Africa,CAF,H,36,1625,Hugo Broos,False
+33,Austria,UEFA,I,18,1815,Ralf Rangnick,False
+34,Switzerland,UEFA,I,16,1840,Murat Yakin,False
+35,Honduras,CONCACAF,I,42,1598,Reinaldo Rueda,False
+36,Egypt,CAF,I,39,1610,Rui Vitoria,False
+37,Denmark,UEFA,J,13,1870,Kasper Hjulmand,False
+38,Serbia,UEFA,J,23,1748,Dragan Stojkovic,False
+39,Nigeria,CAF,J,25,1738,Finidi George,False
+40,Qatar,AFC,J,40,1607,Marquez Lopez,False
+41,Scotland,UEFA,K,29,1705,Steve Clarke,False
+42,Hungary,UEFA,K,32,1670,Marco Rossi,False
+43,Indonesia,AFC,K,47,1555,Patrick Kluivert,False
+44,Jordan,AFC,K,44,1580,Hussain Ammouta,False
+45,New Zealand,OFC,L,45,1560,Darren Bazeley,False
+46,Uzbekistan,AFC,L,43,1592,Srecko Katanec,False
+47,Venezuela,CONMEBOL,L,41,1600,Fernando Batista,False
+48,Guatemala,CONCACAF,L,48,1540,Luis Fernando Tena,False
